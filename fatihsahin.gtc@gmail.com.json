@@ -1,0 +1,12 @@
+{
+  "username": "fatihsahin.gtc@gmail.com",
+  "accessToken": "0b82d9ae6062fd79d28967e15167f569624218c7780a821891addd3a924330cf88511652f7e515d74d0967ff3b42bc3ee2b9613402c96f6b0f951520b13c37c8a85916f32f9995baed0c4060ed1d2d8958af54d500cdb1eef38e55564ab06fbb056df798100caea7bffe7d343a7771e94acee0878291:b38af1e7bcbc3d74ffd5d21be7278a45",
+  "instanceUrl": "https://shnhome2-dev-ed.my.salesforce.com",
+  "orgId": "00D8Z000001ru87UAA",
+  "loginUrl": "https://login.salesforce.com",
+  "refreshToken": "e356fea7450bb4a20f3b1aea2bb0c5e2bb0bf5faa4358c7480cdc884c553bef5e946ac003a46db15d392ac04a2fe381f4ab35b9de2cba6fb0158ada02537030bff62325c853eb7d351b1c5644a13431037e90a3667050ed8e04b48ccb1:73b4717d94df256001e4b6929228b5e7",
+  "clientId": "PlatformCLI",
+  "isDevHub": true,
+  "instanceApiVersion": "56.0",
+  "instanceApiVersionLastRetrieved": "11/5/2022, 11:23:30 AM"
+}
