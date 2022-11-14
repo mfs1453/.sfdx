@@ -1,0 +1,12 @@
+{
+  "accessToken": "bcad9f7220ab636b002a5273b01cd1a9f6cc5bca15f57eaa1d8e41169878fb0d2b7d1d4b0ac106f004e35eeb5e91a7fabbc985e839b3f140bac27b58320531bf667c78e90a5b04d4a7e838b465733e2c71245701a081d519c092a251e2d6176bf32edbc5cf6385e28d3db5a8afd8611a49934a110d11:848cbf9de16f2255c23a016b03cf4392",
+  "instanceUrl": "https://playful-panda-it040x-dev-ed.trailblaze.my.salesforce.com",
+  "orgId": "00D6S000001MhjyUAC",
+  "username": "fatihsahin.gtc@playful-panda-it040x.com",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "2009fd31917ef69fec528c6b2cd5ba02ff16cd1b27522e6b50d3f51367b6de7d0cb8ea167c0735892aee7d1002e84a379a9ab5bbc31ae8b4146f20e5bb5d66b8f9ba48ae6c10063e5ce6717798c1dbdfeb97048afef07c0edf4cff5839:e53a83061f745bd5af96f08c7f2d492e",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "56.0",
+  "instanceApiVersionLastRetrieved": "11/12/2022, 9:51:08 AM"
+}
