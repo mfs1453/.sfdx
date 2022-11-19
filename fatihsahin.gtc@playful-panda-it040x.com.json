@@ -7,6 +7,6 @@
   "refreshToken": "c8f5a6ba564b7ffc252f7d97828b6adeb0d87a3fd79a80bc60b107f25b31cc7376a0ba70b72e0ac92a4832e2ea6a51f1af517a4141f55ccc188d0ea5abd6d9f13efad0da4d15e89caa7bf1cc20f11f785912f8ed317e6c56bd601ab267:b7375cf911f229f2a724c1ba81de0e9b",
   "clientId": "PlatformCLI",
   "isDevHub": false,
-  "instanceApiVersion": "50.0",
-  "instanceApiVersionLastRetrieved": "11/14/2022, 7:28:44 PM"
+  "instanceApiVersion": "56.0",
+  "instanceApiVersionLastRetrieved": "11/19/2022, 9:15:32 AM"
 }
